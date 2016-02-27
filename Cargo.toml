@@ -1,0 +1,9 @@
+[package]
+name = "hyphy"
+version = "0.1.0"
+authors = ["Sam Cutler <sam92cutler@hotmail.co.uk>"]
+
+[dependencies]
+"httparse" = "1.1.1"
+"mio" = "0.5.0"
+"num_cpus" = "0.2.10"
